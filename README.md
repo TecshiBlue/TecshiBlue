@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java <br>
 ⚡ Fun fact: Squirrels sometimes forget where they buried their nuts.
 <!--
 **TecshiBlue/TecshiBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
