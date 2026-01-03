@@ -10,7 +10,7 @@
     <td>
       <ul>
         <li>Hey there, I'm a programmer who graduated from the Cibertec technological institute</strong></li>
-        <li>I🌱 I’m currently learning Java </li>
+        <li>🌱 I’m currently learning Java </li>
         <li>⚡ Fun fact: Squirrels sometimes forget where they buried their nuts.</li>
       </ul>
     </td>
